@@ -1,3 +1,4 @@
 This is the file I created in master. Changed again.
 This is the line I added in release branch. Someone else has added stuff!
+This is where I have added to my feature branch.
 This is where someone else has changes content.
